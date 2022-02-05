@@ -1,4 +1,4 @@
-%inputimage=imread('C:\Users\MALITHWOX\Desktop\edu windsor\sem 4\automotive sensor\test2.jpg');
+%inputimage=imread('location of file');
 %radius=[26,30,31,32];
 %centures = circle_detection(inputimage,radius)
 
